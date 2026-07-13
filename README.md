@@ -87,11 +87,11 @@
 
 ## 📌 Обратная связь
 
-> Буду рад конструктивной обратной связи и предложениям по улучшению анализа!
+> Буду радf конструктивной обратной связи и предложениям по улучшению анализа!
 
 ---
 
-**Автор:** Elizaveta Sgekhovtsova 
-**GitHub:**   
-**Стек:** Python, Pandas, Seaborn, Matplotlib, EDA, Business Analytics  
-**Год:** 2026
+- **Автор:** Elizaveta Sgekhovtsova 
+- **GitHub:** Eliz-Sheh
+- **Стек:** Python, Pandas, Seaborn, Matplotlib, EDA, Business Analytics  
+- **Год:** 2026
